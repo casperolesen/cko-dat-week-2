@@ -1,0 +1,5 @@
+500: Internal Server Error
+404: Not Found
+
+Ups: 500
+i_dont_excist: 404

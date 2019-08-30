@@ -1,0 +1,33 @@
+Public IP
+ - use "nslookup myip.opendns.com resolver1.opendns.com" in win cmd.
+
+Private IP
+ - use "ipconfig" in win cmd.
+
+10.0.0.0 – 10.255.255.255
+ - reserved for private networks
+ - 16.777.216 addresses
+
+172.16.0.0 – 172.31.255.255
+ - reserved for private networks
+ - 1.048.576 addresses
+
+192.168.0.0 – 192.168.255.255
+ - reserved for private networks
+ - 65.536 addresses
+
+127.0.0.1
+ - loopback address
+ - used for network testing
+
+Ports
+ - 22: SSH + file transfers (scp, sftp) + port forwarding
+ - 23: Telnet protocol (unencrypted text communications)
+ - 25: Simple Mail Transfer Protocol (SMTP)
+ - 53: Domain Name System (DNS)
+ - 80: Hypertext Transfer Protocol (HTTP)
+ - 443: HTTP over TLS/SSL (HTTPS)
+
+studypoints.dk
+ - IP: use "ping studypoints.dk" in win cmd = 165.227.137.75
+ - 	 
