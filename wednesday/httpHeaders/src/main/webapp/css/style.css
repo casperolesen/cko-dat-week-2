@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 30, 2019, 4:47:47 PM
+    Author     : Casper Kruse Olesen
+*/
+
+h1 {
+    color: blueviolet;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+p {
+    color: black;
+}
+
+
